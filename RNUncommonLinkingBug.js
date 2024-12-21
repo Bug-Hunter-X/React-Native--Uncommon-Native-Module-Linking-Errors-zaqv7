@@ -1,0 +1,1 @@
+This error occurs when using a third-party library in React Native that has native modules, and those modules aren't properly linked to your project.  This frequently manifests as a runtime error where the native module is not found or an undefined method is called.
